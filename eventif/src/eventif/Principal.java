@@ -4,7 +4,11 @@ public class Principal {
 
 	public static void main(String[] args) {
 
-		System.out.println("Primeiro Commit");
+	mensagem();
+	}
+	public void mensagem(){
+		System.out.println("Primeiro Commit");	
+	}
 	}
 
 }
