@@ -6,9 +6,9 @@ public class Principal {
 
 	mensagem();
 	}
-	public void mensagem(){
+	public static void mensagem(){
 		System.out.println("Primeiro Commit");	
 	}
 	}
 
-}
+
